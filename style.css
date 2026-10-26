@@ -43,3 +43,53 @@ nav a:hover {
     background-color: #e8c5d7;
 }
 
+/* 2. Header and navigation */
+header {
+    background-color: #f6dce8;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #704b64;
+    margin-bottom: 18px;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+nav a {
+    background-color: #fff8fb;
+    border-radius: 20px;
+    color: #704b64;
+    padding: 8px 14px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #e8c5d7;
+}
+
+/* 3. Main content and FAQ sections */
+main {
+    margin: 30px auto;
+    max-width: 850px;
+    padding: 0 18px;
+}
+
+section {
+    background-color: #ffffff;
+    border: 1px solid #f0e1e9;
+    border-radius: 12px;
+    margin-bottom: 22px;
+    padding: 22px;
+}
+
+h2 {
+    color: #66806c;
+    margin-bottom: 14px;
+}
