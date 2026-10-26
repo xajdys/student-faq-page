@@ -1,0 +1,14 @@
+/* 1. Basic page setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff8f3;
+    color: #514653;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
